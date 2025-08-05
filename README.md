@@ -1,8 +1,5 @@
 # Car_Rental_Dashboard
-Car_Rental_website
-Car Rental Dashboard (React + Tailwind)
-📘 Assignment – Car Rental Dashboard (React + Tailwind)
-🗓️ Deadline: August 5, 2025
+📘Car Rental Dashboard (React + Tailwind)
  🎨 Design Reference: (Car Rent Dashboard UI) https://www.figma.com/design/ohC3iZIhRQeY0PxSPOFY1D/Car-Rental-Company-Dashboard-UI--Community-?node-id=0-1&p=f&t=kKxKBtrcJcEtdCyK-0
 
 🎯 Objective
